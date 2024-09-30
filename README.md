@@ -1,7 +1,17 @@
+Najmi Hafizh Mauludan Zain A'2024 (2409116028)
+
+
+
+**FLOWCHART**
+
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/7aea971d-836d-413a-82aa-8db8e57ffe85">
+
+
+**CONTOH OUTPUT DARI AWAL HINGGA AKHIR**
 
 <img width="674" alt="image" src="https://github.com/user-attachments/assets/f5d670f6-a9dc-4c6d-87c1-98d86515d19e">
 
-PENJELASAN OUTPUT
+**PENJELASAN OUTPUT**
 
 1. User melakukan login sederhana seperti memasukkan Nama user dan NIM 
 
