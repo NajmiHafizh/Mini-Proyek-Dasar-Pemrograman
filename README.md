@@ -1,20 +1,45 @@
 
-![Screenshot (153)](https://github.com/user-attachments/assets/82c20717-3397-447b-a7f0-6cce0aedfe29)
-- pada line 1 dan 2 pengguna diminta untuk memasukkan nama dan NIM
+<img width="674" alt="image" src="https://github.com/user-attachments/assets/f5d670f6-a9dc-4c6d-87c1-98d86515d19e">
 
-- pada line 4 dan 5 ada pesan sambutan dan digabungkan dengan line 1 dan 2 menjadi selamat datang pengguna dengan NIM.
+PENJELASAN OUTPUT
 
-- pada line 7 sampai 11 adalah proses perhitungan harga barang. Di sini, pengguna akan diminta untuk memasukkan harga barang dan jumlah barang. Kemudian total harga akan dihitung dengan mengalikan harga barang dengan jumlah barang, dan hasilnya ditampilkan.
+1. User melakukan login sederhana seperti memasukkan Nama user dan NIM 
 
-- pada line 13 sampai 17 adalah proses pemberian diskon pada pengunjung yang membeli barang lebih dari Rp250.000 pelanggan berhak mendapatkan diskon 25%, Diskon dihitung sebesar 25% dari total harga lalu akan di total kembali.
-
-- pada line 19 sampai 22 Jika total harga tidak lebih dari Rp250.000, pengguna tidak mendapatkan diskon dan Total harga akan ditampilkan tanpa diskon.
-
-- pada line 24 sampai 27 itu merupakan kode untuk menanyakan penghitungan ulang pengguna akan diberikan pilihan untuk menghitung ulang atau tidak.Jika pengguna menjawab selain 'y', program akan menampilkan pesan terima kasih dan keluar dari loop dengan menggunakan break.
+<img width="249" alt="image" src="https://github.com/user-attachments/assets/5fe86d53-9929-4f0e-b9bc-54f50684f67c">
 
 
+Setelah menginputkan nama(user) dan NIM(password), maka user akan diberi sapaan dan diarahkan ke program Market
 
-![Screenshot (154)](https://github.com/user-attachments/assets/73155a9f-3ac3-4d15-a189-5e3bfb6409fe)
+<img width="419" alt="image" src="https://github.com/user-attachments/assets/388210ec-5784-4454-9442-d285b6ed0876">
 
-![Screenshot (155)](https://github.com/user-attachments/assets/b3d7bf52-ba5b-42f5-905a-224caf7722c3)
+
+2. Setelah selesai dalam proses login, pengguna diminta untuk menginputkan berapa harga barang dan jumlah barang
+
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/58699634-efa2-4a66-bc9b-680457e839f4">
+
+
+3. jika telah selesai memasukkan harga barang dan jumlah barang, maka dihitunglah oleh program yang sudah dibuat sebelumnya dan sesuai rumus operasi untuk mencari total harga lalu dikurangi Diskon
+
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/440cc4f8-4d9d-43b7-8592-9b3fdf751b40">
+
+
+4. jika sudah selesai, pengguna akan diberikan pilihan apakah ingin menghitung ulang total harga belanja atau keluar dari program
+
+a. Jika pengguna memilih y ,maka pengguna akan mengulang program (menghitung ulang untuk memastikan apakah mendapatkan diskon )
+
+<img width="371" alt="image" src="https://github.com/user-attachments/assets/17722391-50fa-4b49-81c8-84b340e9ffd0">
+
+
+b. Tapi jika pengguna ingin keluar dari program maka pilihlah variabel t
+
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/fe4a9d21-0939-4406-a5dd-4bee42b265d6">
+
+
+
+
+
+
+
+
+
 
