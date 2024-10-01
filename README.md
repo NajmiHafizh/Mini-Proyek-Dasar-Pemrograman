@@ -13,12 +13,12 @@ Najmi Hafizh Mauludan Zain A'2024 (2409116028)
 
 **PENJELASAN OUTPUT**
 
-1. User melakukan login sederhana seperti memasukkan Nama user dan NIM 
+1. Pengguna melakukan login sederhana seperti memasukkan Nama user dan NIM 
 
 <img width="249" alt="image" src="https://github.com/user-attachments/assets/5fe86d53-9929-4f0e-b9bc-54f50684f67c">
 
 
-Setelah menginputkan nama(user) dan NIM(password), maka user akan diberi sapaan dan diarahkan ke program Market
+Setelah menginputkan nama(user) dan NIM(password), maka pengguna akan diberi sapaan dan diarahkan ke program Market
 
 <img width="419" alt="image" src="https://github.com/user-attachments/assets/388210ec-5784-4454-9442-d285b6ed0876">
 
